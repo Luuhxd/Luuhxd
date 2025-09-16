@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lunax&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante da Fatec Zona Leste<br/> Eu sou desenvolvedor frontend</p>
+<p> Eu sou desenvolvedora frontend :)</p>
 
 
 <div align="left">
