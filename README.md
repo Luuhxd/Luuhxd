@@ -20,3 +20,8 @@
 
 </div>
 
+<div align="center">
+
+[![Email] (https://img.shields.io/badge/Gmail-luanaxtech@gmail.com?red?steyle=for-the-badge&logo=gmail&logoColor=White)] (mailto:luanaxtech@gmail.com)
+
+</div>
