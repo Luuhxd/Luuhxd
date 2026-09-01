@@ -18,10 +18,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php logo" />        
 
 
-</div>
-
-<div align="center">
-
-[![Email] (https://img.shields.io/badge/Gmail-luanaxtech@gmail.com?red?steyle=for-the-badge&logo=gmail&logoColor=White)] (mailto:luanaxtech@gmail.com)
-
-</div>
