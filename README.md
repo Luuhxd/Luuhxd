@@ -1,4 +1,4 @@
-
+<img style="margin-top: 40px;" align="right" width="400px" src="[https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif](https://br.pinterest.com/pin/mikasa-ackerman--541206080193768566/)">
 
 ### Olá, meu nome é Luana!
 
