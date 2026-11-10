@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+bem+vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -71,3 +72,6 @@ Olá, me chamo Luana, atualmente estou cursando Análise e Desenvolvimento de Si
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luuhxd/Luuhxd/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Luuhxd/Luuhxd/output/snake.svg">
 </picture>
+
+
+[![Vizualizações](https://komarev.com/ghpvc/?username=Luuhxd&label=Vizualiza%C3%A7%C3%B5es&color=68507b&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
